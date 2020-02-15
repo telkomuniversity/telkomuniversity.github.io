@@ -15,3 +15,4 @@ Our labs have their own GitHub organizations, feel free to check them out!
 * [RPL-Lab](https://github.com/f201) - Software Engineering Laboratory
 * [MobileInnovationLab](https://github.com/MobileInnovationLab) - Mobile Innovation Laboratory
 * [comtran](https://github.com/comtran) - COMTRAN: Competitive Traveling Nerd
+* [DaskomLab](https://github.com/daskomdev) - Dasar Komputer Laboratory
