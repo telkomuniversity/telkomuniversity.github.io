@@ -17,3 +17,4 @@ Our labs have their own GitHub organizations, feel free to check them out!
 * [comtran](https://github.com/comtran) - COMTRAN: Competitive Traveling Nerd
 * [DaskomLab](https://github.com/daskomdev) - Dasar Komputer Laboratory
 * [AILab](https://github.com/ailabtelkom) - Artificial Intelligence Laboratory
+* [AdaptiveNetworkLaboratory](https://github.com/adaptivenetlab) - Adaptive Network Laboratory
